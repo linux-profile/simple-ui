@@ -1,1 +1,1 @@
-# linux-profile-ui
+# simple-ui
