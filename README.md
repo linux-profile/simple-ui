@@ -9,14 +9,13 @@
 
 | Syntax      | Hex     | Color                                                             |
 | ----------- | ------- | :---------------------------------------------------------------: |
-| Black       | #282828 | <div style="background: #282828;height: 15px;width: 15px;"></div> |
-| White       | #eddab0 | <div style="background: #eddab0;height: 15px;width: 15px;"></div> |
-| Grey        | #62646a | <div style="background: #62646a;height: 15px;width: 15px;"></div> |
-| Blue        | #4051b5 | <div style="background: #4051b5;height: 15px;width: 15px;"></div> |
-| Green       | #689d69 | <div style="background: #689d69;height: 15px;width: 15px;"></div> |
-| Yellow      | #d79922 | <div style="background: #d79922;height: 15px;width: 15px;"></div> |
-| Red         | #c9251d | <div style="background: #c9251d;height: 15px;width: 15px;"></div> |
-
+| Black       | #282828 | ![](/docs/assets/colors/black.png) |
+| White       | #eddab0 | ![](/docs/assets/colors/white.png) |
+| Grey        | #62646a | ![](/docs/assets/colors/grey.png) |
+| Blue        | #4051b5 | ![](/docs/assets/colors/blue.png) |
+| Green       | #689d69 | ![](/docs/assets/colors/green.png) |
+| Yellow      | #d79922 | ![](/docs/assets/colors/yellow.png) |
+| Red         | #c9251d | ![](/docs/assets/colors/red.png) |
 
 ## Commit Style
 
