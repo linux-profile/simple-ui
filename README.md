@@ -1,5 +1,7 @@
 # Welcome to Simple UI
 
+<img src="https://github.com/linux-profile/ui/blob/master/docs/linuxp.png?raw=true">
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/linux-profile?label=LinuxProfile&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/linux-profile/ui?style=flat-square)
 
