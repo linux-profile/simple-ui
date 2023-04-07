@@ -1,4 +1,4 @@
-# Welcome to Simple UI
+# Welcome to LinuxProfile UI
 
 <img src="https://github.com/linux-profile/ui/blob/master/docs/linuxp.png?raw=true">
 
