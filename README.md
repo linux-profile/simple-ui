@@ -7,6 +7,11 @@
 
 ---
 
+- **Documentation**: [https://docs.linuxprofile.com](https://docs.linuxprofile.com)
+- **Source Code**: [https://github.com/linux-profile/ui](https://github.com/linux-profile/ui)
+
+---
+
 ## Color Palette
 
 | Syntax      | Hex     | Color                                                             |
